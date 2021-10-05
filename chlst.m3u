@@ -1,0 +1,18 @@
+#EXTINF:-1 tvg-logo="http://www.puthiyathalaimurai.com/assets/puthiyathalaimurai-logo.webp" group-title="Tamil;News",Puthiya Thalaimurai
+http://versewsa.pc.cdn.bitgravity.com/versewsa/live/puthiyathalaimurai.smil/chunklist_b1800000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Logo_of_News7_Tamil_Logo.jpg/220px-Logo_of_News7_Tamil_Logo.jpg" group-title="Tamil;News",News 7 Tamil
+https://versewsa.pc.cdn.bitgravity.com/versewsa/live/tamilnews7.smil/chunklist_b1000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/News18_Tamil_Nadu.jpg" group-title="Tamil;News",News 18 TamilNadu
+https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MHH6UNS.png" group-title="Tamil;News",Thanthi TV
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://imga.androidappsapk.co/5zCwyOg7J4c6f4nVPZKTLFnP9vRlE44COxiWVFHncNnWs1N5TM8B-smWEu20EIFd8g=s300" group-title="Tamil;News",Kalaignar Seithigal
+https://versewsa.pc.cdn.bitgravity.com/versewsa/live//kalaignar_tv.smil/chunklist_b500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/News_J.jpeg/revision/latest/scale-to-width-down/200?cb=20191226093118" group-title="Tamil;News",News J
+http://versewsa.pc.cdn.bitgravity.com/versewsa/live/amlst:newsj_,b1024,b1824,.smil/chunklist.m3u8
+
