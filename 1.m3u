@@ -1,0 +1,125 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg" , Sun TV HD
+http://139.59.55.243/sunnxt/live.php?c=14020&e=.m3u8
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9013/1000x1000_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg" , Sun Music HD
+http://139.59.55.243/sunnxt/live.php?c=9013&e=.m3u8
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/38926/1000x1000_SunNews_38926_5921657d-45b6-445e-9e26-f0cd67be9d39.jpg" , Sun News
+http://139.59.55.243/sunnxt/live.php?c=38926&e=.m3u8
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/75117/200x200_4b19b530-f0bb-4b26-a9de-f3cdd5f8be20.jpg" , Sun Bangla
+http://139.59.55.243/sunnxt/live.php?c=75117&e=.m3u8
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9016/1000x1000_4522d18b-56cc-42be-8365-c54e21a6e394.jpg" , Sun TV
+http://139.59.55.243/sunnxt/live.php?c=9016&e=.m3u8
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26569/1000x1000_SunLife_26569_1e6604fc-2df9-4598-8f1c-dcbda46254ab.jpg" , Sun Life
+http://139.59.55.243/sunnxt/live.php?c=26569&e=.m3u8
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9025/1000x1000_c8897f06-b2c0-4856-9d81-02181b821cf7.jpg" , Sun Music
+http://139.59.55.243/sunnxt/live.php?c=9025&e=.m3u8
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" , Gemini TV HD
+http://139.59.55.243/sunnxt/live.php?c=14019&e=.m3u8
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26570/1000x1000_285efca5-02f3-40a1-8f8c-d913e8f6b989.jpg" , Gemini Movies HD
+http://139.59.55.243/sunnxt/live.php?c=26570&e=.m3u8
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26568/1000x1000_eaa4e437-cce0-4411-8e46-13640be94c55.jpg" , Gemini Music HD
+http://139.59.55.243/sunnxt/live.php?c=26568&e=.m3u8
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9026/1000x1000_4cca05ef-46eb-4076-af6b-a8fdc1b88a27.jpg" , Gemini Music
+http://139.59.55.243/sunnxt/live.php?c=9026&e=.m3u8
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9015/1000x1000_a4023b29-e49b-4c98-9621-95b7e5c39a19.jpg" , Gemini Movies
+http://139.59.55.243/sunnxt/live.php?c=9015&e=.m3u8
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26572/1000x1000_da07159f-fa9c-45d0-beb2-685bedc12e33.jpg" , Gemini Life
+http://139.59.55.243/sunnxt/live.php?c=26572&e=.m3u8
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9027/1000x1000_5cb5b903-f1a0-4590-bb90-8cfa529322e2.jpg" , Gemini Comedy
+http://139.59.55.243/sunnxt/live.php?c=9027&e=&e=.m3u8
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9017/1000x1000_66d46fd1-643f-429f-9e19-db603fa0e5e4.jpg" , Gemini TV
+http://139.59.55.243/sunnxt/live.php?c=9017&e=.m3u8
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/30846/1000x1000_efb20223-e677-49fd-985e-806e7b162c6b.jpg" , Udaya TV HD
+http://139.59.55.243/sunnxt/live.php?c=30846&e=.m3u8
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9029/1000x1000_9f0bcf68-5025-43af-8e60-b83fea67215c.jpg" , Udaya TV
+http://139.59.55.243/sunnxt/live.php?c=9029&e=.m3u8
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9022/1000x1000_d85b4dcc-ad0c-4a5b-84fd-6dd91dc585e2.jpg" , Udaya Music
+http://139.59.55.243/sunnxt/live.php?c=9022&e=.m3u8
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26576/1000x1000_4ad767d2-e5d7-45f2-a95a-ab99f56cc2bf.jpg" , Udaya Movies
+http://139.59.55.243/sunnxt/live.php?c=26576&e=.m3u8
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9014/1000x1000_8a47fe5c-81a8-42a4-8a05-f168e6a3c868.jpg" , Udaya Comedy
+http://139.59.55.243/sunnxt/live.php?c=9027&e=.m3u8
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26574/1000x1000_6ed3be47-b8bf-45ee-adf1-fb5ae9621e08.jpg" , Surya TV HD
+http://139.59.55.243/sunnxt/live.php?c=26574&e=.m3u8
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9018/1000x1000_c10cc678-9321-43f8-b717-16fa7913a6ba.jpg" , Surya TV
+http://139.59.55.243/sunnxt/live.php?c=9018&e=.m3u8
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/30835/1000x1000_143a4af4-2f02-4c9c-814b-af149e6a5a95.jpg" , Surya Comedy
+http://139.59.55.243/sunnxt/live.php?c=30835&e=.m3u8
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26575/1000x1000_a73efcfb-e350-491c-94e0-bd75f0d9d5f2.jpg" , Surya Music
+http://139.59.55.243/sunnxt/live.php?c=26575&e=.m3u8
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9019/1000x1000_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg" , Surya Movies
+http://139.59.55.243/sunnxt/live.php?c=9019&e=.m3u8
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26566/1000x1000_45814266-8c8b-45c6-a801-643e6734f73d.jpg" , KTV HD
+http://139.59.55.243/sunnxt/live.php?c=26566&e=.m3u8
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/32138/1000x1000_84b30aac-654e-4dd5-b5ee-bd8204254735.jpg" , KTV
+http://139.59.55.243/sunnxt/live.php?c=32138&e=.m3u8
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26577/1000x1000_4a0f4f2f-e317-4230-9fb6-6169ef66991d.jpg" , Chintu TV
+http://139.59.55.243/sunnxt/live.php?c=26577&e=.m3u8
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26571/1000x1000_d0545f75-f99b-4375-8f42-6120c95fc55c.jpg" , Kushi TV
+http://139.59.55.243/sunnxt/live.php?c=26571&e=.m3u8
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26573/1000x1000_5787336f-08b9-480f-9c97-3db09999b558.jpg" , Kochu TV
+http://139.59.55.243/sunnxt/live.php?c=26573&e=.m3u8
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26567/1000x1000_c103e59e-217e-44fd-a087-651fcf8e6278.jpg" , Chutti TV
+http://139.59.55.243/sunnxt/live.php?c=26567&e=.m3u8
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9023/1000x1000_30878292-a63e-4414-acbc-902c0afb4b9b.jpg" , Adithya TV
+http://139.59.55.243/sunnxt/live.php?c=9023&e=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WfAU7pB.png" , 3 Tamil TV (720p)
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/7s_music.png" , 7S Music (576p)
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IgwQ7o5.png" , Aathavan TV (720p)
+http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hAgaVPa.jpg" , Akaram Kidz (460p) [Not 24/7]
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.asianetnews.com/v1/images/tamil_logo.png" , Asianet News Tamil (360p)
+https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg" , Kalaignar (576p)
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/MK_SIX.png" , MK Six (576p)
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/MK_TUNES.png" , MK Tunes (576p)
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/mk_tv_in.png" , MK TV (576p)
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kKFfLMd.jpg" , Santhora Short Flim (720p)
+http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LsacUVi.png" , Santhora TV (720p)
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/rsz_tamil_vision_international1.jpg" , Tamil Vision International (720p)
+http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/4123.png" , Thanthi TV (720p)
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YeR3mm9.png" , Velicham (360p) [Not 24/7]
+https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
+#EXTINF:-1 ,AKARAM Gallata TV
+http://akaram.zecast.net/akaram-live/ngrp:akaramgalatta1_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WfAU7pB.png" , 3 Tamil TV (720p)
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P5EXpPy.jpg" , 7S Music (576p)
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IgwQ7o5.png" , Aathavan TV (720p) [Not 24/7]
+http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hAgaVPa.jpg" , Akaram Kidz (460p) [Not 24/7]
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.asianetnews.com/v1/images/tamil_logo.png" , Asianet News Tamil (360p)
+https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UXg6sac.png" , Captain TV (576p)
+http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/radWIeb.png" , Isai Aruvi (576p)
+http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZDXVWVQ.png" , Kalaignar Murasu (576p)
+http://103.199.160.85/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qWOnWhQ.png" , Kalaignar Seithikal (576p)
+http://103.199.160.85/Content/kalaignarseithikal/Live/Channel(KalaignarSeithikal)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bqXRXaZ.png" , Kalaignar Sirippoli (576p)
+http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sv4bLGX.png" , Makkal TV (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0l1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UxxbaR3.png" , MK TV (576p)
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oBjgUTc.png" , News 7 Tamil (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0kp/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xgEQiso.png" , Peppers (576p)
+http://103.199.160.85/Content/peppers/Live/Channel(Peppers)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D03gyp2.png" , Sana TV (576p) [Not 24/7]
+http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
