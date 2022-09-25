@@ -1,82 +1,59 @@
-#EXTINF:-1,KTV TAMIL
+#EXTINF:-1 group-title="Tamil Main channel",STAR VIJAY
+http://31.172.87.60:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+#EXTINF:-1 group-title="Tamil Main channel",SUN TV
+http://31.172.87.62:2200/R-EX/TAMIL_SUN_TV_HD-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+#EXTINF:-1 group-title="Tamil Main channel",KTV TAMIL
 http://31.172.87.62:2200/R-EX/TAMIL_KTV_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
-#EXTINF:-1,Sun Music HD
+#EXTINF:-1 group-title="Tamil Main channel",Sun Music HD
 http://31.172.87.52:2200/R-EX/TAMIL_SUN_MUSIC_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
-#EXTINF:-1,VIJAY SUPER
+#EXTINF:-1 group-title="Tamil Main channel",VIJAY SUPER
 http://31.172.87.52:2200/R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
-#EXTINF:-1,ZEE TAMIL
-http://tv.googledrivelinks.com:8088/live.php?c=Zee_Tamil&q=800&e=.m3u8
-#EXTINF:-1,SAKTHI TV TAMIL
-http://uk1.zecast.com:1935/star-live/shakthi/chunklist.m3u8
-#EXTINF:-1,JAYA TV
-http://uk4.zecast.com:1935/star-live/jaya/playlist.m3u8
-#EXTINF:-1,YUPP THIRAI
-http://syok.tv:2082/588007/588007/3710
-#EXTINF:-1,KALAIGNAR TV1
-http://syok.tv:2082/588007/588007/3706
-#EXTINF:-1,KALAINAR TV2
-http://syok.tv:2082/588007/588007/3701
-#EXTINF:-1,SUN TV1
-http://syok.tv:2082/588007/588007/84
-#EXTINF:-1,ADITHYA
+#EXTINF:-1 group-title="Tamil Main channel",ADITHYA
 http://syok.tv:2082/588007/588007/78
-#EXTINF:-1,STAR VIJAY 
-http://syok.tv:2082/588007/588007/83
-#EXTINF:-1,ZEE TAMIL
-http://syok.tv:2082/588007/588007/87
-#EXTINF:-1,7 STAR TAMIL
-http://syok.tv:2082/588007/588007/3909
-#EXTINF:-1,KTV 
-http://syok.tv:2082/588007/588007/3910
-#EXTINF:-1,COLORS
-http://syok.tv:2082/588007/588007/80
-#EXTINF:-1,JAYA MAX
+#EXTINF:-1 group-title="Tamil Main channel",JAYA MAX
 http://31.172.87.52:2200/R-EX/TAMIL_JAYA_MAX-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo/rajtv.png" group-title="Tamil Regional",RAJ TV
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/367555
-#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo/polimernews.png" group-title="Tamil news channel",POLIMER NEWS
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/367581
-#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo/captaintv.png" group-title="Tamil Regional",CAPTAIN TV
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/14561
-#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo/captainnews.png" group-title="Tamil news channel",CAPTAIN NEWS
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/14560
-#EXTINF:-1 group-title="Tamil Knowledge & Lifestyle",History_18_Tamil
-https://tv.googledrivelinks.com/live.php?c=History_18_Tamil&q=600&e=.m3u8
-#EXTINF:-1 group-title="Tamil Knowledge & Lifestyle",TRAVEL XP_Tamil
-https://tv.googledrivelinks.com/live.php?c=Travel_XP_Tamil&q=600&e=.m3u8
-#EXTINF:-1 group-title="Tamil kids channel",Discovery_Kids_Tamil
-https://tv.googledrivelinks.com/live.php?c=Discovery_Kids_Tamil&q=600&e=.m3u8
-#EXTINF:-1 group-title="Tamil Sports channel",Jio_Cricket_Tamil
-https://tv.googledrivelinks.com/live.php?c=Jio_Cricket_Tamil&q=600&e=.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-hOQJF0AviXI/XabyEn-otgI/AAAAAAAAAO0/EIr3i2cfciM62njA4c0YDitlBnia8Lv1QCPcBGAYYCw/w640-h256/venkat_00104.png" group-title="Tamil news channel",TAMILMAGAN TV
-https://secure.streamplanet.tv/hls/tamilmagantvhd/master.m3u8
-#EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
-#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo/rajdigitalplus.png" group-title="Tamil Regional",RAJ DIGITAL PLUS
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/367564
-#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo/isaiaruvi.png" group-title="Tamil music channel",ISAIARUVI
+#EXTINF:-1 group-title="Tamil Main channel",ISAIARUVI
 http://driptvs.com:8080/WHT1344/zNAqmDwYC4/367717
-#EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
-#EXTINF:-1,TVI TAMIL
-http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
-#EXTINF:-1,SAKTHI TV TAMIL
-http://uk1.zecast.com:1935/star-live/shakthi/chunklist.m3u8
-#EXTINF:-1,JAYA TV
+#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo/rajtv.png" group-title="Tamil Main channel",RAJ TV
+http://driptvs.com:8080/WHT1344/zNAqmDwYC4/367555
+#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo/polimernews.png" group-title="Tamil Main channel",POLIMER NEWS
+http://driptvs.com:8080/WHT1344/zNAqmDwYC4/367581
+#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo/captaintv.png" group-title="Tamil Main channel",CAPTAIN TV
+http://driptvs.com:8080/WHT1344/zNAqmDwYC4/14561
+#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo/captainnews.png" group-title="Tamil Main channel",CAPTAIN NEWS
+http://driptvs.com:8080/WHT1344/zNAqmDwYC4/14560
+#EXTINF:-1 group-title="Tamil Main channel",History_18_Tamil
+https://tv.googledrivelinks.com/live.php?c=History_18_Tamil&q=600&e=.m3u8
+#EXTINF:-1 group-title="Tamil Main channel",TRAVEL XP_Tamil
+https://tv.googledrivelinks.com/live.php?c=Travel_XP_Tamil&q=600&e=.m3u8
+#EXTINF:-1 group-title="Tamil Main channel",Discovery_Kids_Tamil
+https://tv.googledrivelinks.com/live.php?c=Discovery_Kids_Tamil&q=600&e=.m3u8
+#EXTINF:-1 group-title="Tamil Main channel",Jio_Cricket_Tamil
+https://tv.googledrivelinks.com/live.php?c=Jio_Cricket_Tamil&q=600&e=.m3u8
+#EXTINF:-1 group-title="Tamil Main channel",TAMILMAGAN TV
+https://secure.streamplanet.tv/hls/tamilmagantvhd/master.m3u8
+#EXTINF:-1 group-title="Tamil Main channel",RAJ DIGITAL PLUS
+http://driptvs.com:8080/WHT1344/zNAqmDwYC4/367564
+#EXTINF:-1 group-title="Tamil Main channel",JAYA TV
 http://uk4.zecast.com:1935/star-live/jaya/playlist.m3u8
-#EXTINF:-1,Sony Ten 2 HD
-https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
-#EXTINF:-1,Sony Ten 3 HD
-https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
-#EXTINF:-1,Sony Ten 4 HD
-https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
-#EXTINF:-1,Sony Six HD
-https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
-#EXTINF:-1,Sony ten 1
-https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
-#EXTINF:-1,7Vasanth TV(Tamil)
+#EXTINF:-1 group-title="Tamil Main channel",7Vasanth TV(Tamil)
 http://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/playlist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f
+#EXTINF:-1 group-title="Tamil Main channel",TVI TAMIL
+http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
+#EXTINF:-1 group-title="Tamil Main channel",SAKTHI TV TAMIL
+http://uk1.zecast.com:1935/star-live/shakthi/chunklist.m3u8
 
-#EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
+#EXTINF:-1 group-title="Sports",Sony Ten 2 HD
+https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+#EXTINF:-1 group-title="Sports",Sony Ten 3 HD
+https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+#EXTINF:-1 group-title="Sports",Sony Ten 4 HD
+https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
+#EXTINF:-1 group-title="Sports",Sony Six HD
+https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+#EXTINF:-1 group-title="Sports",Sony ten 1
+https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+
 #EXTINF:-1 group-title="TLL MUSIC",ACN MUSIC
 http://198.144.149.82:8080/AMMA/ACNMUSIC/index.m3u8?token=AMMA
 #EXTINF:-1 group-title="TLL MUSIC",MALAR TV UHD
@@ -255,5 +232,3 @@ http://conference1.livebox.co.in:80/vedhatvhls/live.m3u8
 http://183.87.51.10:80/hls/vasantv.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",ANANDHA 4K TV
 http://198.144.149.82:8080/NOTV/ANANDHATV/tracks-v1a1/mono.m3u8
-
-
